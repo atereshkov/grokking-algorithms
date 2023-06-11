@@ -2,7 +2,7 @@
 
 <img src="https://m.media-amazon.com/images/S/aplus-media/vc/73bae493-a033-4b28-a429-edd8398b78eb._CR12,0,377,377_PT0_SX300__.jpg" alt="Grokking Algorithms" width="88" height="88">
 
-This repository is dedicated to learning and practicing algorithms described in **Grokking Algorithms** book, with the goal of enhancing my problem-solving skills and refreshing my memory.
+This repository is dedicated to learning and practicing algorithms described in **Grokking Algorithms** book, with the goal of enhancing my problem-solving skills and refreshing my memory from Uni times.
 
 ## About the Book
 Aditya Y. Bhargava has created a comprehensive and approachable guide to understanding algorithms, making it an excellent resource for programmers. The book stands out in its ability to elucidate complex ideas using simple language, enabling readers to easily grasp the underlying principles of each algorithm.
@@ -15,8 +15,8 @@ I particularly appreciate the inclusion of exercises throughout the book, as the
 
 This repository contains the following files related to algorithms:
 
-1. `binary_search.swift` - An implementation of the binary search algorithm in Swift.
-2. `selection_sort.swift` - An implementation of the selection sort algorithm in Swift.
+1. [binary_search.swift](https://github.com/atereshkov/grokking-algorithms/blob/main/binary_search.swift) - An implementation of the binary search algorithm in Swift.
+2. [selection_sort.swift](https://github.com/atereshkov/grokking-algorithms/blob/main/selection_sort.swift) - An implementation of the selection sort algorithm in Swift.
 3. `recursive_fibonacci.swift` - An implementation of the Fibonacci sequence using recursion in Swift.
 4. `dijkstra_shortest_path.swift` - An implementation of Dijkstra's algorithm for finding the shortest path in a graph in Swift.
 
