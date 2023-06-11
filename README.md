@@ -17,8 +17,9 @@ This repository contains the following files related to algorithms:
 
 1. [binary_search.swift](https://github.com/atereshkov/grokking-algorithms/blob/main/binary_search.swift) - An implementation of the binary search algorithm in Swift.
 2. [selection_sort.swift](https://github.com/atereshkov/grokking-algorithms/blob/main/selection_sort.swift) - An implementation of the selection sort algorithm in Swift.
-3. `recursive_fibonacci.swift` - An implementation of the Fibonacci sequence using recursion in Swift.
-4. `dijkstra_shortest_path.swift` - An implementation of Dijkstra's algorithm for finding the shortest path in a graph in Swift.
+3. [recursive_factorial.swift](https://github.com/atereshkov/grokking-algorithms/blob/main/recursive_factorial.swift) - An implementation of the factorial calculation using recursion in Swift.
+4. `quicksort.swift` - An implementation of comparision sorting algorithm in Swift.
+5. `dijkstra_shortest_path.swift` - An implementation of Dijkstra's algorithm for finding the shortest path in a graph in Swift.
 
 Happy coding and algorithmic adventures!
 
